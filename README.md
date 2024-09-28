@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Adeel</h1>
 <h3 align="center">A passionate frontend developer from Pakistan-)</h3>
 <img align="right" alt="code" width="400" src="https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif?cid=790b7611fliwwwdgmdssnb0zfyxhfbd2izdagqgs0qct4c7p&ep=v1_gifs_search&rid=giphy.gif&ct=g"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Adeelbhatti11&label=Profile%20views&color=0e75b6&style=flat" alt="Adeelbhatti11" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haroonnadir&label=Profile%20views&color=0e75b6&style=flat" alt="haroonnadir" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adeelbhatti11" alt="Adeelbhatti11" /></a> </p>
 
